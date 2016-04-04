@@ -299,7 +299,7 @@
             this.Controls.Add(this.panel1);
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "Form5";
-            this.Text = "Form5";
+            this.Text = "XML 格式化";
             this.DragDrop += new System.Windows.Forms.DragEventHandler(this.Form5_DragDrop);
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
