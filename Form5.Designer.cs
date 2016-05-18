@@ -36,6 +36,7 @@
             this.退出ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.toolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.编辑ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.显示原始数据ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.panel2 = new System.Windows.Forms.Panel();
             this.splitContainer1 = new System.Windows.Forms.SplitContainer();
             this.splitContainer2 = new System.Windows.Forms.SplitContainer();
@@ -48,7 +49,6 @@
             this.value = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.panel3 = new System.Windows.Forms.Panel();
             this.label1 = new System.Windows.Forms.Label();
-            this.显示原始数据ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.panel1.SuspendLayout();
             this.menuStrip1.SuspendLayout();
             this.panel2.SuspendLayout();
@@ -133,6 +133,13 @@
             this.编辑ToolStripMenuItem.Name = "编辑ToolStripMenuItem";
             this.编辑ToolStripMenuItem.Size = new System.Drawing.Size(44, 21);
             this.编辑ToolStripMenuItem.Text = "编辑";
+            // 
+            // 显示原始数据ToolStripMenuItem
+            // 
+            this.显示原始数据ToolStripMenuItem.Name = "显示原始数据ToolStripMenuItem";
+            this.显示原始数据ToolStripMenuItem.Size = new System.Drawing.Size(148, 22);
+            this.显示原始数据ToolStripMenuItem.Text = "显示原始数据";
+            this.显示原始数据ToolStripMenuItem.Click += new System.EventHandler(this.显示原始数据ToolStripMenuItem_Click);
             // 
             // panel2
             // 
@@ -280,13 +287,6 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(0, 12);
             this.label1.TabIndex = 0;
-            // 
-            // 显示原始数据ToolStripMenuItem
-            // 
-            this.显示原始数据ToolStripMenuItem.Name = "显示原始数据ToolStripMenuItem";
-            this.显示原始数据ToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
-            this.显示原始数据ToolStripMenuItem.Text = "显示原始数据";
-            this.显示原始数据ToolStripMenuItem.Click += new System.EventHandler(this.显示原始数据ToolStripMenuItem_Click);
             // 
             // Form5
             // 

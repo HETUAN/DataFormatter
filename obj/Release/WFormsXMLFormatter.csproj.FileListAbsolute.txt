@@ -11,4 +11,5 @@ E:\HEPW\MySpace\NET\HSolution\WFormsXMLFormatter\obj\Release\WFormsXMLFormatter.
 E:\HEPW\MySpace\NET\HSolution\WFormsXMLFormatter\obj\Release\WFormsXMLFormatter.csproj.GenerateResource.Cache
 E:\HEPW\MySpace\NET\HSolution\WFormsXMLFormatter\obj\Release\WFormsXMLFormatter.exe
 E:\HEPW\MySpace\NET\HSolution\WFormsXMLFormatter\obj\Release\WFormsXMLFormatter.pdb
-E:\HEPW\MySpace\NET\HSolution\WFormsXMLFormatter\obj\Release\WFormsXMLFormatter.csprojResolveAssemblyReference.cache
+E:\HEPW\MySpace\NET\HSolution\WFormsXMLFormatter\obj\Release\WFormsXMLFormatter.Form6.resources
+E:\HEPW\MySpace\NET\HSolution\WFormsXMLFormatter\obj\Release\WFormsXMLFormatter.Form7.resources

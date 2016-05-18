@@ -1,0 +1,15 @@
+E:\HEPW\MySpace\NET\HSolution\WFormsXMLFormatter\bin\Debug\WFormsXMLFormatter.exe.config
+E:\HEPW\MySpace\NET\HSolution\WFormsXMLFormatter\bin\Debug\WFormsXMLFormatter.exe
+E:\HEPW\MySpace\NET\HSolution\WFormsXMLFormatter\bin\Debug\WFormsXMLFormatter.pdb
+E:\HEPW\MySpace\NET\HSolution\WFormsXMLFormatter\obj\Debug\WFormsXMLFormatter.Controls.XmlTextBox.resources
+E:\HEPW\MySpace\NET\HSolution\WFormsXMLFormatter\obj\Debug\WFormsXMLFormatter.Form1.resources
+E:\HEPW\MySpace\NET\HSolution\WFormsXMLFormatter\obj\Debug\WFormsXMLFormatter.Form2.resources
+E:\HEPW\MySpace\NET\HSolution\WFormsXMLFormatter\obj\Debug\WFormsXMLFormatter.Form3.resources
+E:\HEPW\MySpace\NET\HSolution\WFormsXMLFormatter\obj\Debug\WFormsXMLFormatter.Form4.resources
+E:\HEPW\MySpace\NET\HSolution\WFormsXMLFormatter\obj\Debug\WFormsXMLFormatter.Form5.resources
+E:\HEPW\MySpace\NET\HSolution\WFormsXMLFormatter\obj\Debug\WFormsXMLFormatter.Form6.resources
+E:\HEPW\MySpace\NET\HSolution\WFormsXMLFormatter\obj\Debug\WFormsXMLFormatter.Form7.resources
+E:\HEPW\MySpace\NET\HSolution\WFormsXMLFormatter\obj\Debug\WFormsXMLFormatter.Properties.Resources.resources
+E:\HEPW\MySpace\NET\HSolution\WFormsXMLFormatter\obj\Debug\WFormsXMLFormatter.csproj.GenerateResource.Cache
+E:\HEPW\MySpace\NET\HSolution\WFormsXMLFormatter\obj\Debug\WFormsXMLFormatter.exe
+E:\HEPW\MySpace\NET\HSolution\WFormsXMLFormatter\obj\Debug\WFormsXMLFormatter.pdb
